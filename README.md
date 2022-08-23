@@ -1,4 +1,4 @@
-<p style="width: 294px; height: 77px; font-family: 'Brush Script MT', 'Brush Script Std', cursive; font-size: 22px;"> i’m James from Ghana. A Full-stack Software Engineer currently located in Ghana. I really enjoy learning languages and frameworks like react.js, node.js, flask and django</p>
+
 <img align=”left” alt=”Coding” width=”400” src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesalhassan&label=Profile%20views&color=0e75b6&style=flat" alt="jamesalhassan" /> </p>
