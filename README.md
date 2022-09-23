@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jamesalhassan052@gamil.com**
 
-- ⚡ Fun fact **Why Developers like dark mode? Cos it light attracts bug!!!**
+- ⚡ Fun fact **Why Developers like dark mode? Cos Light attracts Bugs!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
