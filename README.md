@@ -1,9 +1,18 @@
-<img src="https://raw.githubusercontent.com/jamesAlhassan/cpractice/main/github-header-image%20(1).png">
-<!--- Wrap text <img align=”left” alt=”Coding” width=”400” src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">--->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesAlhassan" alt="jamesAlhassan" /></a> </p>
+<h1 align="center">Hi 👋, I'm James Alhassan </h1>
+
+<p align="left"> <a href="https://twitter.com/jamesalhassan4" target="blank"><img src="https://img.shields.io/twitter/follow/jamesalhassan4?logo=facebook&style=for-the-badge" alt="jamesalhassan4" /></a></p>
+<p align="left"> <a href="https://twitter.com/jamesalhassan4" target="blank"><img src="https://img.shields.io/twitter/follow/jamesalhassan4?logo=twitter&style=for-the-badge" alt="jamesalhassan4" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesalhassan&label=Profile%20views&color=0e75b6&style=flat" alt="jamesalhassan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jamesalhassan4" target="blank"><img src="https://img.shields.io/twitter/follow/jamesalhassan4?logo=twitter&style=for-the-badge" alt="jamesalhassan4" /></a> </p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
+
+
+<!--- Wrap text <img align=”left” alt=”Coding” width=”400” src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesAlhassan" alt="jamesAlhassan" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Software Engineering with ALX in collaboration with Holberton School of Computer Science**
 
@@ -12,6 +21,12 @@
 - 📫 How to reach me **jamesalhassan052@gamil.com**
 
 - ⚡ Fun fact **Why Developers like dark mode? Cos Light attracts Bugs!!!**
+
+<h3 align="left">Random Joke Generator:</h3>
+
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
